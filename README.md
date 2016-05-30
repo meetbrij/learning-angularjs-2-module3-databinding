@@ -13,7 +13,7 @@ This is the second hands-on exercise in Learning Angular JS 2 Series. In this mo
 
 clone repo and run the following commands
 
-`
-- npm install
-- npm start
-`
+```
+npm install
+npm start
+```
